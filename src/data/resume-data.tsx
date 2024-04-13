@@ -28,8 +28,8 @@ export const RESUME_DATA = {
     "Mobile Developer",
   summary:
     "As a Mobile developer, I have successfully finished several project from 0 to 1. In some project i took on the role of a junior leader, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React Native, Kotlin, and Swift. I have over 3 years of experience in working as mobile developer",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  avatarUrl: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fme.png?alt=media&token=db1f1a77-2033-487f-913d-2ff6e1263ff9",
+  personalWebsiteUrl: "",
   contact: {
     email: "gangkasa888@gmail.com",
     tel: "+6281298247404",
@@ -56,7 +56,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
+      company: "PT. Trilogi Persada",
       link: "https://www.trilogipersada.com/",
       badges: [],
       title: "IT Developer - Mobile Dev",
@@ -84,164 +84,121 @@ export const RESUME_DATA = {
     "React Native",
     "Swift",
     "Git",
-    "Kotlin"
+    "Kotlin",
+    "Jira",
+    "Figma",
+    "Html",
+    "Css",
   ],
   projects: [
     {
-      title: "MOBILE PRESENT TRILOGI PERSADA",
+      title: "Mobile Present",
       techStack: [
+        "Main Project",
         "TypeScript",
         "React Native",
       ],
       description: "App for facilitates employee attendance tracking",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "mptp",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2FAbsensi.pdf?alt=media&token=88ddf769-21b9-40b3-9d2c-481fca6124a4",
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "Smesta Pos",
+      techStack: [
+        "Main Project",
+        "TypeScript",
+        "React Native",
+        "Bluetooth Printer",
+      ],
       description:
-        "Browser extension that records everything happening in a web application",
+        "Streamlines transactions, manages inventory, and integrates seamlessly with Bluetooth scanners and printers",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "smesta",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fsmesta.pdf?alt=media&token=80ebcc57-96b4-4186-bb71-52152ae95952",
       },
     },
     {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      title: "Monitoring Maintenance System",
+      techStack: [
+        "Main Project",
+        "Javascript",
+        "React Native",
+      ],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Manage open tickets and conduct investigations, this app streamlines the process for efficiently resolving issues",
       logo: JarockiMeLogo,
       link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
+        label: "mms",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fmms.pdf?alt=media&token=4a68bdc9-8a35-45f8-9e76-a382facd6f18",
       },
     },
     {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Tiketku",
+      techStack: ["Side Project", "Javascript", "React Native",],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
+        "Seamless hotel bookings with this exceptional app",
       logo: Minimal,
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
+        label: "tiketku",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Ftiketku.pdf?alt=media&token=fc7c079f-1f15-486f-a04b-661d81c8b253",
       },
     },
     {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "E-Kabinet",
+      techStack: [
+        "Main Project",
+        "TypeScript",
+        "React Native",
+      ],
       description:
-        "Generates beautiful wallpapers using random shapes and gradients",
+        "App for the cabinets of the President, Vice President, and Minister to see meeting invitation, see meeting mmaterial, etc",
       logo: BarepapersLogo,
       link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
+        label: "ekabinet",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fe-kabinet.pdf?alt=media&token=b80a6e95-bf15-42a8-b607-b3563f83eb43",
       },
     },
     {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
+      title: "Kitalomba",
+      techStack: ["Side Project", "TypeScript",  "React Native"],
+      description: "App streamlines the judging process by enabling judges to assess participants exclusively through the app",
       logo: YearProgressLogo,
       link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
+        label: "kitalomba",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fkitalomba.pdf?alt=media&token=0e4ab90c-5637-4050-bde0-587e214149b7",
       },
     },
     {
-      title: "Parabol",
+      title: "Education App",
       techStack: [
-        "Full Stack Developer",
+        "Main Project",
         "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "React Native",
       ],
       description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "Comprehensive learning materials and optional assignments to enrich their educational journeys",
       logo: ParabolLogo,
       link: {
-        label: "github.com",
-        href: "https://parabol.co/",
+        label: "Education",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fpembelajaran.pdf?alt=media&token=58e5e588-24f6-44df-9c01-fb44ff64e75a",
       },
     },
     {
-      title: "Evercast",
+      title: "See All",
       techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "",
       ],
       description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      logo: EvercastLogo,
+        "See all project in pdf",
+      logo: ParabolLogo,
       link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
+        label: "All project",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fall%20project.pdf?alt=media&token=8ffc92d2-4dc2-41b3-afcc-fdb067d7c3a0",
       },
-    },
-    {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for leading virtual mobile operator in Poland",
-      logo: MobileVikingsLogo,
-      link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
-      },
-    },
-    {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
-      logo: Howdy,
-      link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
-      },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      logo: TastyCloudLogo,
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
-      },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-      logo: AmbitLogo,
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-      logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
     },
   ],
 } as const;
