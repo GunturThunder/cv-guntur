@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Mobile Developer",
   summary:
-    "As a Mobile developer, I have successfully finished several project from 0 to 1. In some project i took on the role of a junior leader, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React Native, Kotlin, and Swift. I have over 3 years of experience in working as mobile developer",
+    "I’m a Mobile Developer with 5 years of experience, specializing in building cross-platform mobile applications using hybrid technologies like React Native and Ionic for both Android and iOS. I also have hands-on experience with native development using Kotlin and Swift. Over the years, I’ve led and contributed to multiple projects from the ground up, and in some of them, I stepped into a junior leadership role to help foster a productive and collaborative team environment.",
   avatarUrl: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fme.png?alt=media&token=db1f1a77-2033-487f-913d-2ff6e1263ff9",
   personalWebsiteUrl: "",
   contact: {
@@ -56,32 +56,46 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "PT. Iforce Consulting Indonesia - Bank Mega",
+      link: "https://www.trilogipersada.com/",
+      badges: [],
+      title: "Mobile Developer",
+      logo: ParabolLogo,
+      start: "2021",
+      end: "2024",
+      description:
+        "Responsible for developing, maintaining, and debugging Android and iOS applications to ensure stability and optimal performance, while also supporting the team to work more efficiently through collaboration and knowledge sharing. Technologies: Android, IOS, Ionic, Java, Xcode.",
+    },
+    {
       company: "PT. Trilogi Persada",
       link: "https://www.trilogipersada.com/",
       badges: [],
-      title: "IT Developer - Mobile Dev",
+      title: "IT Developer - Mobile Developer",
       logo: ParabolLogo,
       start: "2021",
-      end: "Now",
+      end: "2024",
       description:
-        "Created an internal application and application for clients. Technologies: Android, IOS, React Native, Swift, TypeScript, Javascript, Java",
+        "Designed and developed both internal tools to support company operations and client-facing mobile applications built to meet specific business requirements, focusing on performance, usability, and cross-platform consistency. Technologies: Android, IOS, React Native, Swift, TypeScript, Javascript, Java, Redux.",
     },
     {
       company: "Telkomsigma",
       link: "https://www.telkomsigma.co.id/",
       badges: [],
-      title: "Junior IT Consultant - Mobile Dev",
+      title: "Junior IT Consultant - Mobile Developer",
       logo: ClevertechLogo,
       start: "2020",
       end: "2021",
       description:
-        "Created Android mobile apps and Ios apps. Technologies: Android, IOS, React Native, Swift, TypeScript",
+        "Developed mobile applications for both Android and iOS platforms. Technologies: Android, IOS, React Native, Swift, TypeScript.",
     }
   ],
   skills: [
     "JavaScript",
     "TypeScript",
     "React Native",
+    "Redux",
+    "Redux-Saga",
+    "Ionic",
     "Swift",
     "Git",
     "Kotlin",
@@ -103,6 +117,20 @@ export const RESUME_DATA = {
       link: {
         label: "mptp",
         href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2FAbsensi.pdf?alt=media&token=88ddf769-21b9-40b3-9d2c-481fca6124a4",
+      },
+    },
+        {
+      title: "Mola TV",
+      techStack: [
+        "Main Project",
+        "Swift",
+        "Xcode",
+      ],
+      description: "Contributed to API migration, enhanced features, and managed deployments to the App Store",
+      logo: ConsultlyLogo,
+      link: {
+        label: "mptp",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fmola%20tv.pdf?alt=media&token=0605b9cf-00fd-4df1-b18a-ace7b679c2bf",
       },
     },
     {
@@ -164,7 +192,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Kitalomba",
-      techStack: ["Side Project", "TypeScript",  "React Native"],
+      techStack: ["Side Project", "TypeScript", "React Native"],
       description: "App streamlines the judging process by enabling judges to assess participants exclusively through the app",
       logo: YearProgressLogo,
       link: {
@@ -197,7 +225,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       link: {
         label: "All project",
-        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fall%20project.pdf?alt=media&token=8ffc92d2-4dc2-41b3-afcc-fdb067d7c3a0",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fall%20project.pdf?alt=media&token=15a3f4be-c9c7-4afa-964a-f2f8976b33f0",
       },
     },
   ],
