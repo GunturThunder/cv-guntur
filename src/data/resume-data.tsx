@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Mobile Developer",
       logo: ParabolLogo,
-      start: "2021",
+      start: "2024",
       end: "Now",
       description:
         "Responsible for developing, maintaining, and debugging Android and iOS applications to ensure stability and optimal performance, while also supporting the team to work more efficiently through collaboration and knowledge sharing. Technologies: Android, IOS, Ionic, Java, Xcode.",
