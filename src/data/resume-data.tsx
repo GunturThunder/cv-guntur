@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "East Jakarta, Indonesia",
   locationLink: "https://maps.app.goo.gl/RXVfWyB3J9owV8Aw8",
   about:
-    "Mobile Developer",
+    "Software Developer",
   summary:
-    "I’m a Mobile Developer with 5 years of experience, specializing in building cross-platform mobile applications using hybrid technologies like React Native and Ionic for both Android and iOS. I also have hands-on experience with native development using Kotlin and Swift. Over the years, I’ve led and contributed to multiple projects from the ground up, and in some of them, I stepped into a junior leadership role to help foster a productive and collaborative team environment.",
+    "I’m a Software Developer specializing in mobile applications with 5 years of experience, specializing in building cross-platform mobile applications using hybrid technologies like React Native and Ionic for both Android and iOS. I also have hands-on experience with native development using Kotlin and Swift. Over the years, I’ve led and contributed to multiple projects from the ground up, and in some of them, I stepped into a junior leadership role to help foster a productive and collaborative team environment.",
   avatarUrl: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fme.png?alt=media&token=db1f1a77-2033-487f-913d-2ff6e1263ff9",
   personalWebsiteUrl: "",
   contact: {
