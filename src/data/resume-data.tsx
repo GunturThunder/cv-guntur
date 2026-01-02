@@ -106,6 +106,21 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "M-Smile",
+      techStack: [
+        "Main Project",
+        "TypeScript",
+        "React Native",
+        "Ionic",
+      ],
+      description: "Delivered new features, coordinated with multiple teams, and ensured application stability through maintenance and timely bug fixes.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "mptp",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fm-smile.pdf?alt=media&token=a3973dea-3541-4813-af96-53bbc4e8420b",
+      },
+    },
+    {
       title: "Mobile Present",
       techStack: [
         "Main Project",
@@ -119,7 +134,7 @@ export const RESUME_DATA = {
         href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2FAbsensi.pdf?alt=media&token=88ddf769-21b9-40b3-9d2c-481fca6124a4",
       },
     },
-        {
+    {
       title: "Mola TV",
       techStack: [
         "Main Project",
@@ -225,7 +240,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       link: {
         label: "All project",
-        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fall%20project.pdf?alt=media&token=15a3f4be-c9c7-4afa-964a-f2f8976b33f0",
+        href: "https://firebasestorage.googleapis.com/v0/b/bampor-a3faa.appspot.com/o/random%20file%2Fall2.pdf?alt=media&token=fdc0f341-5ad4-48a8-93b3-e7e614f51821",
       },
     },
   ],
