@@ -56,13 +56,24 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Softwareseni",
+      link: "https://www.softwareseni.co.id/",
+      badges: [],
+      title: "Software Developer",
+      logo: ParabolLogo,
+      start: "2025",
+      end: "Now",
+      description:
+        "Involved in the end-to-end development of front-end applications web and mobile, from initial concept through to deployment and maintenance. Collaborated closely with cross-functional teams to deliver high-quality software solutions that meet client requirements. Technologies: Android, IOS, React Native, TypeScript, Javascript, Java, Redux.",
+    },
+    {
       company: "PT. Iforce Consulting Indonesia - Bank Mega",
-      link: "https://www.trilogipersada.com/",
+      link: "",
       badges: [],
       title: "Mobile Developer",
       logo: ParabolLogo,
       start: "2024",
-      end: "Now",
+      end: "2025",
       description:
         "Responsible for developing, maintaining, and debugging Android and iOS applications to ensure stability and optimal performance, while also supporting the team to work more efficiently through collaboration and knowledge sharing. Technologies: Android, IOS, Ionic, Java, Xcode.",
     },
